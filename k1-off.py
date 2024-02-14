@@ -11,7 +11,7 @@ print( "")
 #UDP_IP = "ff02::1%eth0"                 # LINK LOCAL MULTI CAST ADDRESS
 #R_UDP_IP = "::"
 
-shell_command = 'ip n | grep 00:1e:5e:02:6b:68 | cut -f 1 -d " "'
+shell_command = 'ip n | grep xx:yy:ff:02:xx:yy | cut -f 1 -d " "'
 output = subprocess.check_output(shell_command, shell=True, text=True)
 UDP_IP = output.strip()
 R_UDP_IP = '0.0.0.0'
