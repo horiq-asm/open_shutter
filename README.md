@@ -1,3 +1,4 @@
+![IMG_5269](https://github.com/horiq-asm/open_shutter/assets/103295965/bb58bc3e-2c2f-4c4d-abcd-b3dd5aee075c)
 # アップルウォッチからガレージのシャッターを上げる<br>
 gr.html　ローカルのwifiからのみ操作が可能<br>
 シャッター純正リモコンのスイッチをフォトカプラでONする回路を<br>
